@@ -25,7 +25,7 @@ Import sys from the module.
 
 ### Step 4:
 
-Spilt the word count using command line arguments
+Split the word count using command line arguments
 
 ### Step 5:
 
